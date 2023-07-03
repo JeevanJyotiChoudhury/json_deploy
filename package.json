@@ -1,0 +1,23 @@
+{
+  "name": "js_deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeevanJyotiChoudhury/json_deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeevanJyotiChoudhury/json_deploy/issues"
+  },
+  "homepage": "https://github.com/JeevanJyotiChoudhury/json_deploy#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
