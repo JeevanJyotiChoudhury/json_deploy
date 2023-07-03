@@ -13,7 +13,7 @@
       "name": "Nrupul",
       "age": 37,
       "place": "Vijayawada",
-      "batch_name": "WEB-18",
+      "batch_name": "WEB-20",
       "profession": "FSD"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Jeevan",
       "age": "25",
       "place": "Bhubaneswar",
-      "batch_name": "web17",
+      "batch_name": "WEB-19",
       "profession": "FSD",
       "id": 4
     }
