@@ -15,6 +15,22 @@
       "place": "Vijayawada",
       "batch_name": "WEB-18",
       "profession": "FSD"
+    },
+    {
+      "name": "Jeevan Jyoti Choudhury",
+      "age": "25",
+      "place": "Bhubaneswar",
+      "batch_name": "WEB-22",
+      "profession": "Student",
+      "id": 3
+    },
+    {
+      "name": "Jeevan",
+      "age": "25",
+      "place": "Bhubaneswar",
+      "batch_name": "web17",
+      "profession": "FSD",
+      "id": 4
     }
   ]
 }
