@@ -1,36 +1,89 @@
 {
-  "users": [
+  "response_code": 0,
+  "results": [
     {
-      "id": 1,
-      "name": "Chandra",
-      "age": 25,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When Halo 3: ODST was unveiled in 2008, it had a different title. What was the game formally called?",
+      "correct_answer": "Halo 3: Recon",
+      "incorrect_answers": [
+        "Halo 3: Helljumpers",
+        "Halo 3: Phantom",
+        "Halo 3: Guerilla"
+      ]
     },
     {
-      "id": 2,
-      "name": "Nrupul",
-      "age": 37,
-      "place": "Vijayawada",
-      "batch_name": "WEB-20",
-      "profession": "FSD"
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+      "correct_answer": "Economics",
+      "incorrect_answers": ["Philosophy", "Politics", "Physics"]
     },
     {
-      "name": "Jeevan Jyoti Choudhury",
-      "age": "25",
-      "place": "Bhubaneswar",
-      "batch_name": "WEB-22",
-      "profession": "Student",
-      "id": 3
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+      "correct_answer": "Calvin and Hobbes",
+      "incorrect_answers": ["Winnie the Pooh", "Albert and Pogo", "Peanuts"]
     },
     {
-      "name": "Jeevan",
-      "age": "25",
-      "place": "Bhubaneswar",
-      "batch_name": "WEB-19",
-      "profession": "FSD",
-      "id": 4
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
+      "correct_answer": "Skrillex",
+      "incorrect_answers": ["Diplo", "Jillionaire", "Walshy Fire"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who plays the Nemesis in the Resident Evil movies?",
+      "correct_answer": "Matthew Taylor",
+      "incorrect_answers": ["Jason Dip", "Eric Mabius", "Jimmy Matts"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What country is Cory in the House set in?",
+      "correct_answer": "The United States of America",
+      "incorrect_answers": ["Canada", "Venezuala", "England"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The character Plum from &quot;No Game No Life&quot; is of what race?",
+      "correct_answer": "Dhampir",
+      "incorrect_answers": ["Fl&uuml;gel", "Imanity", "Seiren"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "&quot;Make You Feel My Love&quot; was originally written and performed by which singer-songwriter?",
+      "correct_answer": "Bob Dylan",
+      "incorrect_answers": ["Elvis", "Adele", "Billy Joel"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+      "correct_answer": "Leonard Nimoy",
+      "incorrect_answers": ["William Shatner", "George Takei", "James Doohan"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are Panama hats made out of?",
+      "correct_answer": "Straw",
+      "incorrect_answers": ["Silk", "Hemp", "Flax"]
     }
   ]
 }
