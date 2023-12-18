@@ -3,47 +3,47 @@
     {
       "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
       "brand": "Hormel Black Labelmany",
-      "price": "$60.67 / 6*1LB",
+      "price": 60.67,
       "strikePrice":"",
-      "quantity": "0 x 6 + 1LB",
+      "quantity": 0,
       "total": "0",
       "strikeTotal":""
     },
     {
       "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
       "brand": "Hormel Black Labelmany",
-      "price": "$60.67 / 6*1LB",
+      "price": 60.67,
       "strikePrice":"",
-      "quantity": "15 x 6 + 1LB",
-      "total": "$9000.88",
-      "strikeTotal":""
-    },
-    {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": "$60.67 / 6*1LB",
-      "strikePrice":"",
-      "quantity": "15 x 6 + 1LB",
-      "total": "$9000.88",
-      "strikeTotal":""
-    },
-    {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": "$60.67 / 6*1LB",
-      "strikePrice":"",
-      "quantity": "0 x 6 + 1LB",
+      "quantity": 15,
       "total": "0",
       "strikeTotal":""
     },
     {
       "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
       "brand": "Hormel Black Labelmany",
-      "price": "$60.67 / 6*1LB",
-      "strikePrice":"$10.43",
-      "quantity": "13 x 6 + 1LB",
-      "total": "$12,654.32",
-      "strikeTotal":"$3345.12"
+      "price": 60.67,
+      "strikePrice":"",
+      "quantity": 15,
+      "total": "0",
+      "strikeTotal":""
+    },
+    {
+      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 60.67,
+      "strikePrice":"",
+      "quantity":0,
+      "total": "0",
+      "strikeTotal":""
+    },
+    {
+      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 60.67,
+      "strikePrice":"0",
+      "quantity": 13,
+      "total": "0",
+      "strikeTotal":"0"
     }
   ]
 }
