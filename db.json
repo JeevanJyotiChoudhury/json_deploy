@@ -1,49 +1,44 @@
 {
-  "products": [
+  "user": {
+    "name": "Jeevan"
+  },
+  "community": {
+    "message": "It’s a nice day to learn something new"
+  },
+  "courses": [
     {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "strikePrice":"",
-      "quantity": 0,
-      "total": "0",
-      "strikeTotal":""
+      "title": "Fundamentals of Product Design",
+      "chapterNumbers": 8,
+      "duration": "2 Hours"
     },
     {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "strikePrice":"",
-      "quantity": 15,
-      "total": "0",
-      "strikeTotal":""
+      "title": "Fundamentals of System Design",
+      "chapterNumbers": 9,
+      "duration": "3 Hours"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Fundamentals of Product Design",
+      "chapterNumbers": 8,
+      "duration": "2 Hours"
     },
     {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "strikePrice":"",
-      "quantity": 15,
-      "total": "0",
-      "strikeTotal":""
+      "title": "Fundamentals of System Design",
+      "chapterNumbers": 9,
+      "duration": "3 Hours"
+    }
+  ],
+  "tweet":[
+    {
+      "type":"Product",
+      "title":"Fundamentals of Product Design",
+      "author":"Shreyas Doshi"
     },
     {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "strikePrice":"",
-      "quantity":0,
-      "total": "0",
-      "strikeTotal":""
-    },
-    {
-      "name": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "strikePrice":"0",
-      "quantity": 13,
-      "total": "0",
-      "strikeTotal":"0"
+      "type": "Product",
+      "title": "Fundamentals of System Design",
+      "author": "Jeevan Jyoti"
     }
   ]
 }
